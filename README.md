@@ -15,7 +15,7 @@ This is a tool to quickly save your machine learning models and deploy them on k
 <br/>
 
 # Functions:
-##### 1:MLModelMgmt: 
+### 1:MLModelMgmt: 
 Build an image, convert and save your trained models to this serviceable image
 
 **apis：**
@@ -30,7 +30,7 @@ You can check the api documents for more information about these apis
 
 <br/>
 
-##### 2:FeedMeImages: 
+### 2:FeedMeImages: 
 Use the model saving images and a serving image to serve your model on k8s or docker-compose
 
 **apis:**
